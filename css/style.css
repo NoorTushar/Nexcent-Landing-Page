@@ -15,7 +15,7 @@
 }
 
 .my-y-margin {
-  margin: 32px 0;
+  margin: 18px 0 26px;
 }
 
 * {
@@ -320,6 +320,7 @@ header {
 .pellentesque {
   padding: 60px 0;
   background-color: var(--Background-Gray);
+  width: 100%;
 }
 
 .pellentesque-button {
